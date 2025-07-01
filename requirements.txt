@@ -3,3 +3,4 @@ python-dotenv>=1.0
 xrpl-py==4.2.0
 matplotlib>=3.8
 openai==1.93.0
+openai>=1.0

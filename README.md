@@ -1,6 +1,6 @@
-# Echo Protocol Watcher
+# STB ChartWatcher
 
-**Echo Protocol Watcher** is a lightweight Telegram bot for tracking XRPL-based $STB activity: holder distribution, whale wallets, big buys/sells, bubble-map clusters, and AI wallet sentiment.
+**STB Chart Watcher** is a lightweight Telegram bot for tracking XRPL-based $STB activity: holder distribution, whale wallets, big buys/sells, bubble-map clusters, and AI wallet sentiment.
 
 ---
 
@@ -23,5 +23,6 @@
 
    ```bash
    git clone https://github.com/missxtina11/Echo-Pro-Watcher.git
-   cd Echo-Pro-Watcher
+   cd STB-ChartWatcher
+
 
