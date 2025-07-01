@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore environment config
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore image output
+*.png
