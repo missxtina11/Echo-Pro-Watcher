@@ -10,8 +10,6 @@ venv/
 # Ignore environment config
 .env
 
-# Ignore VS Code settings
-.vscode/
+# Other files
+*.log
 
-# Ignore image output
-*.png
